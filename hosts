@@ -1,6 +1,10 @@
 [kafka-1]
 10.0.1.13
+[zookeeper-1]
+10.0.1.13
 
+[zookeeper:children]
+zookeeper-1
 [kafka:children]
 kafka-1
 
