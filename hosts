@@ -1,7 +1,7 @@
 [kafka-1]
-10.0.1.13
+10.0.1.196
 [zookeeper-1]
-10.0.1.13
+10.0.1.196
 
 [zookeeper:children]
 zookeeper-1
